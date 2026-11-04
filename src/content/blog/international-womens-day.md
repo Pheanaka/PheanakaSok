@@ -1,6 +1,6 @@
 ---
 title: "International Women’s Day: The Fight for Equality Continues"
-cover: 'https://img.cambodianess.com/uploads/article/03-2026/1772781751.jpg'
+cover: '@/assets/womens-day.jpg'
 date: '2026-03-06'
 tags:
   - published
